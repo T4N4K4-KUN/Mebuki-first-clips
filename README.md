@@ -69,22 +69,3 @@ v0では次をやらない。
 - ブランド完全設計。
 
 6本の反応を見てから変える。
-
-<!-- MEBUKI-CLIPS-V0-FOCUS:START -->
-
-## v0 focus: 6 clips, research-led, not AI-invented
-
-このrepoのv0は、初心者・エンジニア返り咲き層に向けた短尺クリップ6本だけに集中する。
-
-重要なのは、AIに気持ちよさそうな励まし文を書かせることではない。実在する人間の状態に合わせて、1本につき1つの心理負荷を下げ、1つの小さな行動に着地させること。
-
-脚本や構成を作る前に必ず読む。
-
-- `docs/RESEARCH_BASELINE.md`
-- `docs/SCRIPTING_GUIDE.md`
-- `docs/CLIP_BRIEFS_V0.md`
-- `docs/HUMAN_REVIEW_CHECKLIST.md`
-
-既存のclipファイルに台本案があっても、それは人間レビューを通るまで未承認ドラフトとする。
-
-<!-- MEBUKI-CLIPS-V0-FOCUS:END -->

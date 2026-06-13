@@ -2,19 +2,6 @@
 
 このrepoのv0は、最初の6本だけを作る。
 
-<!-- MEBUKI-CLIPS-RECOVERY-TODO:START -->
-
-## Recovery TODO — 調査結果をrepoへ戻す
-
-- [ ] `docs/RESEARCH_BASELINE.md` を追加し、6本制作の判断軸を固定する。
-- [ ] `docs/SCRIPTING_GUIDE.md` を追加し、AIの空想脚本を禁止する。
-- [ ] `docs/CLIP_BRIEFS_V0.md` を追加し、6本それぞれのユーザー心理・小さな行動・禁止事項を明確にする。
-- [ ] `docs/HUMAN_REVIEW_CHECKLIST.md` を追加し、人間に刺さるかを確認できるようにする。
-- [ ] 既存の `clips/*.md` に台本案がある場合、`prompts/CODEX_RESCUE_EXISTING_DRAFTS_PROMPT.md` に従って未承認ドラフトとして再評価する。
-- [ ] まず1本だけ、brief準拠の候補を2〜3案作る。6本を一気に仕上げない。
-
-<!-- MEBUKI-CLIPS-RECOVERY-TODO:END -->
-
 ## Current focus
 
 9:16縦ショート6本の企画・台本・簡易制作メモを整え、公開または社内確認できる状態まで進める。
