@@ -4,23 +4,23 @@
 
 ## Current focus
 
-STEAL MAPに沿って、既存ドラフトを白紙AI創作から「盗んだ型が明確な候補」に立て直す。
+INSPIRATION MAPに沿って、既存ドラフトを白紙AI創作から「参考にした型が明確な候補」に立て直す。
 
 ## Now
 
-- [ ] `docs/STEAL_MAP.md` を読み、6本で盗む型を確認する。
+- [ ] `docs/INSPIRATION_MAP.md` を読み、6本で参考にする型を確認する。
 - [ ] `docs/REFERENCE_TARGETS.md` を読み、001で見る参考先を2〜3件だけ選ぶ。
 - [ ] `docs/MEBUKI_CLIPS_V0_BOARD.md` を読み、各clipの傷・hook・視点反転を確認する。
 - [ ] `docs/SCRIPT_QUALITY_BAR.md` を読み、凡庸な励ましの不合格条件を確認する。
 - [ ] 既存の `clips/` をレビューし、白紙AI創作になっているものを特定する。
 - [ ] 最初に直す1本を `001 エラーが出たら、始まっている` に絞る。
-- [ ] `prompts/CODEX_STEAL_MAP_REWRITE_ONE_CLIP.md` を使って、001の候補をA/B/Cで出す。
+- [ ] `prompts/CODEX_INSPIRATION_MAP_REWRITE_ONE_CLIP.md` を使って、001の候補をA/B/Cで出す。
 - [ ] 人間が1案を選ぶ。
 - [ ] 選んだ1案だけを粗い動画メモにする。
 
 ## First six
 
-- [ ] 001 `エラーが出たら、始まっている` — STEAL MAP review
+- [ ] 001 `エラーが出たら、始まっている` — INSPIRATION MAP review
 - [ ] 002 `今日は5分だけ触れば勝ち` — draft
 - [ ] 003 `昔やめた人は、弱い人じゃない` — draft
 - [ ] 004 `AIに聞いていい。検索していい。` — draft

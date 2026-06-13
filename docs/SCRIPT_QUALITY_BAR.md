@@ -114,7 +114,7 @@ Codex/Claude Codeは、最初から完成稿を1つに決めない。
 
 ```text
 Clip ID:
-盗んだ型:
+参考にした型:
 視聴者の傷:
 Hook 3案:
 台本候補 A:

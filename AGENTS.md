@@ -15,7 +15,7 @@
 
 1. `README.md`
 2. `TODO.md`
-3. `docs/STEAL_MAP.md`
+3. `docs/INSPIRATION_MAP.md`
 4. `docs/REFERENCE_TARGETS.md`
 5. `docs/MEBUKI_CLIPS_V0_BOARD.md`
 6. `docs/SCRIPT_QUALITY_BAR.md`
@@ -48,7 +48,7 @@
 
 このrepoで短尺動画の脚本・構成・clip案を扱う場合、Codex/Claude Codeは必ず以下を読む。
 
-- `docs/STEAL_MAP.md`
+- `docs/INSPIRATION_MAP.md`
 - `docs/REFERENCE_TARGETS.md`
 - `docs/MEBUKI_CLIPS_V0_BOARD.md`
 - `docs/SCRIPT_QUALITY_BAR.md`
@@ -56,9 +56,9 @@
 ### Script work rules
 
 - 白紙から脚本を創作しない。
-- まず「どの型を盗むか」を明示する。
-- `docs/REFERENCE_TARGETS.md` から具体参考先を選び、何を盗むかを書く。
-- 盗む対象は、アイデア、心理トリガー、構成、テンポ、学習導線である。
+- まず「どの型を参考にするか」を明示する。
+- `docs/REFERENCE_TARGETS.md` から具体参考先を選び、何を参考にするかを書く。
+- 取り入れる対象は、アイデア、心理トリガー、構成、テンポ、学習導線である。
 - 映像、音声、字幕、台本、図解、キャラ、サムネをコピーしない。
 - 6本以外のclipを勝手に追加しない。
 - 完成稿を1案だけ出さない。候補A/B/Cと弱点を出す。
