@@ -29,6 +29,9 @@
 ## Repository layout
 
 - `clips/` — 6本それぞれの企画、台本、制作メモ。
+- `docs/STEAL_MAP.md` — 6本で盗む型、心理トリガー、視点反転の地図。
+- `docs/MEBUKI_CLIPS_V0_BOARD.md` — 各clipの傷、hook、視点反転、画面案。
+- `docs/SCRIPT_QUALITY_BAR.md` — AIっぽい励ましを落とす品質基準。
 - `docs/PRODUCTION_RULES.md` — 画角、尺、字幕、制作フローの最小ルール。
 - `docs/RIGHTS_AND_REFERENCES.md` — 参考素材のA/B/C分類と権利ガード。
 - `docs/MATERIALS_LEDGER.md` — 素材・参考元・権利確認の台帳。
@@ -39,12 +42,14 @@
 
 ## Working style
 
-1. `TODO.md` から1本だけ選ぶ。
-2. 対象の `clips/*.md` を開く。
-3. 1メッセージ、3〜5カット、20〜35秒に収める。
-4. 外部素材を使う前に `docs/MATERIALS_LEDGER.md` に記録する。
-5. 権利が曖昧な素材は使わない。構造だけ参考にして自作する。
-6. 6本が出るまで、長いシリーズ計画や大量の追加案を作らない。
+1. `docs/STEAL_MAP.md` で盗む型を決める。
+2. `docs/MEBUKI_CLIPS_V0_BOARD.md` で対象clipの傷、hook、視点反転を確認する。
+3. `docs/SCRIPT_QUALITY_BAR.md` で凡庸な励ましを落とす。
+4. 対象の `clips/*.md` を開く。
+5. 完成稿を1本に決めず、A/B/Cの候補を出す。
+6. 外部素材を使う前に `docs/MATERIALS_LEDGER.md` に記録する。
+7. 権利が曖昧な素材は使わない。盗むのは型と心理トリガーだけにする。
+8. 6本が出るまで、長いシリーズ計画や大量の追加案を作らない。
 
 ## Success criteria for v0
 

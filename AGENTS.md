@@ -15,10 +15,13 @@
 
 1. `README.md`
 2. `TODO.md`
-3. 対象の `clips/*.md`
-4. `docs/PRODUCTION_RULES.md`
-5. `docs/RIGHTS_AND_REFERENCES.md`
-6. 外部素材や参考元に触れる場合は `docs/MATERIALS_LEDGER.md`
+3. `docs/STEAL_MAP.md`
+4. `docs/MEBUKI_CLIPS_V0_BOARD.md`
+5. `docs/SCRIPT_QUALITY_BAR.md`
+6. 対象の `clips/*.md`
+7. `docs/PRODUCTION_RULES.md`
+8. `docs/RIGHTS_AND_REFERENCES.md`
+9. 外部素材や参考元に触れる場合は `docs/MATERIALS_LEDGER.md`
 
 ## Core rule
 
@@ -39,6 +42,26 @@
 - 初心者を子ども扱いしない。
 - 返り咲き層を「挫折した人」と決めつけない。
 - mebukiの内部戦略や作り手側の都合を、視聴者向け台本に混ぜない。
+
+## mebuki clips script rules
+
+このrepoで短尺動画の脚本・構成・clip案を扱う場合、Codex/Claude Codeは必ず以下を読む。
+
+- `docs/STEAL_MAP.md`
+- `docs/MEBUKI_CLIPS_V0_BOARD.md`
+- `docs/SCRIPT_QUALITY_BAR.md`
+
+### Script work rules
+
+- 白紙から脚本を創作しない。
+- まず「どの型を盗むか」を明示する。
+- 盗む対象は、アイデア、心理トリガー、構成、テンポ、学習導線である。
+- 映像、音声、字幕、台本、図解、キャラ、サムネをコピーしない。
+- 6本以外のclipを勝手に追加しない。
+- 完成稿を1案だけ出さない。候補A/B/Cと弱点を出す。
+- `頑張ろう`、`一歩踏み出そう`、`あなたならできる` だけで成立する台本は不合格。
+- mebukiの内輪の戦略・思想・制作事情を視聴者向け台本に混ぜない。
+- 1本につき、視聴者の具体的な傷、視点反転、最後の小さな行動を必ず入れる。
 
 ## Rights and reference guard
 
@@ -70,7 +93,7 @@
 悪い使い方：
 
 - 英語動画を日本語化して投稿する。
-- 既存動画の構成をほぼ同じ順番で作る。
+- 1つの既存動画の具体的な順番、言い回し、図、画面、編集をなぞる。
 - 他者の図を描き直す。
 - 「教育目的だから大丈夫」と判断する。
 
