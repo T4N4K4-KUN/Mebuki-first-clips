@@ -17,6 +17,7 @@
 |---|---|---|---|---|---|---|---|
 | REF-FCC-001 | 005 | freeCodeCamp | B | project-based learning粒度 | 課題文、動画、記事本文、コード例 | TBD | official source to verify |
 | REF-CS50-001 | 001 | CS50 | B | 難しさを隠さない導入、熱量 | 講義映像、スライド、台詞、演出 | TBD | official source to verify |
+| REF-TARGETS-001 | all | docs/REFERENCE_TARGETS.md source list | B | 具体参考先と盗む型の対応 | 外部素材、台本、字幕、図解、画面 | 2026-06-14 | repo source list |
 | REF-HABIT-001 | 002 | 筋トレ・英語・瞑想系shorts | B | 小さな継続の言葉 | 台詞、構成、サムネ、音楽 | TBD | source-specific notes |
 | REF-TED-STRUCT-001 | optional | TED-Ed | C/B | 問いから始める短い物語構造 | 映像、字幕、台本、翻訳、図解 | TBD | official policy to verify |
 

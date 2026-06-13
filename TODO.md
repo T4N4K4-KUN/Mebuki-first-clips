@@ -9,6 +9,7 @@ STEAL MAPに沿って、既存ドラフトを白紙AI創作から「盗んだ型
 ## Now
 
 - [ ] `docs/STEAL_MAP.md` を読み、6本で盗む型を確認する。
+- [ ] `docs/REFERENCE_TARGETS.md` を読み、001で見る参考先を2〜3件だけ選ぶ。
 - [ ] `docs/MEBUKI_CLIPS_V0_BOARD.md` を読み、各clipの傷・hook・視点反転を確認する。
 - [ ] `docs/SCRIPT_QUALITY_BAR.md` を読み、凡庸な励ましの不合格条件を確認する。
 - [ ] 既存の `clips/` をレビューし、白紙AI創作になっているものを特定する。

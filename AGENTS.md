@@ -16,12 +16,13 @@
 1. `README.md`
 2. `TODO.md`
 3. `docs/STEAL_MAP.md`
-4. `docs/MEBUKI_CLIPS_V0_BOARD.md`
-5. `docs/SCRIPT_QUALITY_BAR.md`
-6. 対象の `clips/*.md`
-7. `docs/PRODUCTION_RULES.md`
-8. `docs/RIGHTS_AND_REFERENCES.md`
-9. 外部素材や参考元に触れる場合は `docs/MATERIALS_LEDGER.md`
+4. `docs/REFERENCE_TARGETS.md`
+5. `docs/MEBUKI_CLIPS_V0_BOARD.md`
+6. `docs/SCRIPT_QUALITY_BAR.md`
+7. 対象の `clips/*.md`
+8. `docs/PRODUCTION_RULES.md`
+9. `docs/RIGHTS_AND_REFERENCES.md`
+10. 外部素材や参考元に触れる場合は `docs/MATERIALS_LEDGER.md`
 
 ## Core rule
 
@@ -48,6 +49,7 @@
 このrepoで短尺動画の脚本・構成・clip案を扱う場合、Codex/Claude Codeは必ず以下を読む。
 
 - `docs/STEAL_MAP.md`
+- `docs/REFERENCE_TARGETS.md`
 - `docs/MEBUKI_CLIPS_V0_BOARD.md`
 - `docs/SCRIPT_QUALITY_BAR.md`
 
@@ -55,6 +57,7 @@
 
 - 白紙から脚本を創作しない。
 - まず「どの型を盗むか」を明示する。
+- `docs/REFERENCE_TARGETS.md` から具体参考先を選び、何を盗むかを書く。
 - 盗む対象は、アイデア、心理トリガー、構成、テンポ、学習導線である。
 - 映像、音声、字幕、台本、図解、キャラ、サムネをコピーしない。
 - 6本以外のclipを勝手に追加しない。
