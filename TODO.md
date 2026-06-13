@@ -4,23 +4,23 @@
 
 ## Current focus
 
-INSPIRATION MAPに沿って、既存ドラフトを白紙AI創作から「参考にした型が明確な候補」に立て直す。
+Phase 0の「作れる」導線に絞って、001をAIエージェント時代のツカミへ立て直す。
 
 ## Now
 
-- [ ] `docs/INSPIRATION_MAP.md` を読み、6本で参考にする型を確認する。
-- [ ] `docs/REFERENCE_TARGETS.md` を読み、001で見る参考先を2〜3件だけ選ぶ。
-- [ ] `docs/MEBUKI_CLIPS_V0_BOARD.md` を読み、各clipの傷・hook・視点反転を確認する。
-- [ ] `docs/SCRIPT_QUALITY_BAR.md` を読み、凡庸な励ましの不合格条件を確認する。
-- [ ] 既存の `clips/` をレビューし、白紙AI創作になっているものを特定する。
-- [ ] 最初に直す1本を `001 エラーが出たら、始まっている` に絞る。
-- [ ] `prompts/CODEX_INSPIRATION_MAP_REWRITE_ONE_CLIP.md` を使って、001の候補をA/B/Cで出す。
+- [x] `docs/INSPIRATION_MAP.md` を読み、6本で参考にする型を確認する。
+- [x] `docs/REFERENCE_TARGETS.md` を読み、001で見る参考先をPhase 0の5件に絞る。
+- [x] `docs/MEBUKI_CLIPS_V0_BOARD.md` を読み、各clipの傷・hook・視点反転を確認する。
+- [x] `docs/SCRIPT_QUALITY_BAR.md` を読み、凡庸な励ましの不合格条件を確認する。
+- [x] 旧 `001 エラーが出たら、始まっている` を、第一話から外す。
+- [x] 最初に直す1本を `001 最初の1時間で、ゲームは動く` に絞る。
+- [x] `clips/001-game-in-first-hour.md` に参考先ベースの候補A/B/Cを出す。
 - [ ] 人間が1案を選ぶ。
 - [ ] 選んだ1案だけを粗い動画メモにする。
 
 ## First six
 
-- [ ] 001 `エラーが出たら、始まっている` — INSPIRATION MAP review
+- [ ] 001 `最初の1時間で、ゲームは動く` — human review candidate A/B/C
 - [ ] 002 `今日は5分だけ触れば勝ち` — draft
 - [ ] 003 `昔やめた人は、弱い人じゃない` — draft
 - [ ] 004 `AIに聞いていい。検索していい。` — draft

@@ -8,7 +8,7 @@ v0では、再生数だけで判断しない。mebukiに必要なのは、初心
 
 | Clip | Status | Published / reviewed date | Platform / place | Notes |
 |---|---|---|---|---|
-| 001 エラーが出たら、始まっている | TBD | TBD | TBD | TBD |
+| 001 最初の1時間で、ゲームは動く | TBD | TBD | TBD | TBD |
 | 002 今日は5分だけ触れば勝ち | TBD | TBD | TBD | TBD |
 | 003 昔やめた人は、弱い人じゃない | TBD | TBD | TBD | TBD |
 | 004 AIに聞いていい。検索していい。 | TBD | TBD | TBD | TBD |
@@ -34,7 +34,8 @@ v0では、再生数だけで判断しない。mebukiに必要なのは、初心
 - 「自分のことだ」
 - 「戻ってみようかな」
 - 「今日5分やった」
-- 「エラーが怖くなくなった」
+- 「自分も作れると思った」
+- 「ゲームを動かしてみたくなった」
 - 「ログを残してみた」
 
 ## Decision after six

@@ -24,7 +24,7 @@
 
 ## First six
 
-1. `001-error-started.md` — エラーが出たら、始まっている
+1. `001-game-in-first-hour.md` — 最初の1時間で、ゲームは動く
 2. `002-five-minutes.md` — 今日は5分だけ触れば勝ち
 3. `003-returner-not-weak.md` — 昔やめた人は、弱い人じゃない
 4. `004-ask-ai-search-ok.md` — AIに聞いていい。検索していい。

@@ -16,8 +16,17 @@
 | ID | Clip | Reference | Class | What was studied | What must not be copied | Checked date | URL / note |
 |---|---|---|---|---|---|---|---|
 | REF-FCC-001 | 005 | freeCodeCamp | B | project-based learning粒度 | 課題文、動画、記事本文、コード例 | TBD | official source to verify |
-| REF-CS50-001 | 001 | CS50 | B | 難しさを隠さない導入、熱量 | 講義映像、スライド、台詞、演出 | TBD | official source to verify |
+| REF-CS50-001 | later | CS50 | B | Phase 3以降の設計・正しさ・学び直し | 講義映像、スライド、台詞、演出 | TBD | official source to verify |
 | REF-TARGETS-001 | all | docs/REFERENCE_TARGETS.md source list | B | 具体参考先と参考にする型の対応 | 外部素材、台本、字幕、図解、画面 | 2026-06-14 | repo source list |
+| REF-REPLIT-AGENT-20260614 | 001 | Replit Agent overview | B | 普通の言葉でアイデアを伝え、Agentが作る・確認する・直す導線 | UI、コピー、ロゴ、プロンプト例、デモ画面 | 2026-06-14 | https://docs.replit.com/references/agent/overview |
+| REF-BOLT-HOME-20260614 | 001 | Bolt.new | B | 「何を作る？」から入り、ビジョンに集中する導線 | UI、コピー、ロゴ、テンプレ、画面構成 | 2026-06-14 | https://bolt.new/ |
+| REF-LOVABLE-WELCOME-20260614 | 001 | Lovable Docs | B | 自然言語からworking applicationへ進む。ゲーム・クイズ・シミュレーションも入口にする | ドキュメント文、画面、事例、機能説明の順番 | 2026-06-14 | https://docs.lovable.dev/introduction/welcome |
+| REF-GITHUB-SPARK-20260614 | 001 | GitHub Spark | B | dream -> see -> ship、自然言語、プレビュー、履歴、共有の流れ | GitHubの表現、画面、サンプルアプリ、コピー | 2026-06-14 | https://githubnext.com/projects/github-spark/ |
+| REF-MAKECODE-ARCADE-20260614 | 001 | Microsoft MakeCode Arcade | B | 初手からゲーム。小さく動く画面で作れた感を作る | ゲーム名、画面、キャラ、チュートリアル構成、ブロック配置 | 2026-06-14 | https://arcade.makecode.com/ |
+| REF-CS50-X-20260614 | later | CS50x official course | B | Phase 3以降の本物のCS感覚、設計、正しさ、学び直し | 講義映像、先生の語り口、スライド、問題セット、固有演出 | 2026-06-14 | https://cs50.harvard.edu/x/ |
+| REF-CS50-W0-20260614 | later | CS50x Week 0 | B | Phase 3以降の参加感、Scratchから始める導入 | Scratch教材、講義構成、字幕、デモ内容 | 2026-06-14 | https://cs50.harvard.edu/x/weeks/0/ |
+| REF-CS50-W1-20260614 | later | CS50x Week 1 | B | Phase 3以降の低レイヤーやCLIへの導入 | Cの説明、コード例、コマンド例、エラー内容 | 2026-06-14 | https://cs50.harvard.edu/x/weeks/1/ |
+| REF-TED-ED-LESSONS-20260614 | later | TED-Ed Lessons | C/B | 後段での問いから視点反転へ進む構造 | アニメーション、タイトル、ナレーション文、問いの言い回し、図解 | 2026-06-14 | https://ed.ted.com/lessons |
 | REF-HABIT-001 | 002 | 筋トレ・英語・瞑想系shorts | B | 小さな継続の言葉 | 台詞、構成、サムネ、音楽 | TBD | source-specific notes |
 | REF-TED-STRUCT-001 | optional | TED-Ed | C/B | 問いから始める短い物語構造 | 映像、字幕、台本、翻訳、図解 | TBD | official policy to verify |
 
