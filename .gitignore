@@ -1,0 +1,30 @@
+# local/system
+.DS_Store
+Thumbs.db
+*.log
+
+# generated / exported media
+out/
+exports/
+renders/
+raw/
+tmp/
+.cache/
+local/
+
+# large local working files
+*.mp4
+*.mov
+*.m4v
+*.mp3
+*.wav
+*.aiff
+*.psd
+*.ai
+*.prproj
+*.drp
+*.afdesign
+*.afphoto
+
+# keep source docs and lightweight planning files in git
+!.gitignore
