@@ -34,6 +34,7 @@
 | REF-TED-ED-LESSONS-20260614 | later | TED-Ed Lessons | C/B | 後段での問いから視点反転へ進む構造 | アニメーション、タイトル、ナレーション文、問いの言い回し、図解 | 2026-06-14 | https://ed.ted.com/lessons |
 | REF-HABIT-001 | 002 | 筋トレ・英語・瞑想系shorts | B | 小さな継続の言葉 | 台詞、構成、サムネ、音楽 | TBD | source-specific notes |
 | REF-TED-STRUCT-001 | optional | TED-Ed | C/B | 問いから始める短い物語構造 | 映像、字幕、台本、翻訳、図解 | TBD | official policy to verify |
+| REF-OPENAI-CODEX-WINDOWS-20260615 | 001/lecture | OpenAI Codex app Windows docs | B | Codex appのWindows入手方法、Windows sandbox/PowerShell/WSL2、推奨開発者ツールの確認 | 公式画面、画像、コピー、UIの流用 | 2026-06-15 | https://developers.openai.com/codex/app/windows |
 
 ## Approval meanings
 
