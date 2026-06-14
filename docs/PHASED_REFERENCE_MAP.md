@@ -37,6 +37,30 @@
 | 4 | GitHub Spark | dream -> see -> ship の流れ |
 | 5 | MakeCode Arcade | 最初はゲーム。画面が動く快感 |
 
+## 001 Reference Audit
+
+今回確認した動画群は、教育コンテンツというよりサービス/ツールの売り込みやデモが多かった。
+そのため、001へ直接使う学びは限定する。
+
+採用する学び。
+
+| Source | Keep |
+|---|---|
+| Replit Agent official video | `idea -> software`、Agentは単なるcode generation toolではなくpair programmerという位置づけ |
+| Bolt.new tutorials | きわめて軽い自然言語プロンプトから、すぐ成果物が見える構造 |
+| Adafruit Mini Galaga | ユーザー投稿作品を材料にする、既存ゲームから着想を得て始める、動いた後にedit codeで中を見る、1か所いじる |
+
+後回しにする学び。
+
+| Source | Move to |
+|---|---|
+| Bolt Discuss | 004/006。検索、相談、計画、デバッグ、failed-to-fetchからの復帰 |
+| Lovable detailed tutorial | 005/006。生成後の局所編集、Web app化、DB連携 |
+| Supabase/API key/database | 001には入れない |
+
+次回の動画選定では、NotebookLMに入れる前に、候補動画ごとに「001で使える構造が2つ以上あるか」を確認する。
+使える構造が薄いサービス売り込み動画は採用しない。
+
 ## Six-clip Reassignment
 
 | No | New position | Main references |

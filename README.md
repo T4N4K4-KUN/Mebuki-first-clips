@@ -31,6 +31,8 @@
 - `clips/` — 6本それぞれの企画、台本、制作メモ。
 - `docs/INSPIRATION_MAP.md` — 6本で参考にする型、心理トリガー、視点反転の地図。
 - `docs/REFERENCE_TARGETS.md` — 具体的に見る参考リンクと参考にする型の対応表。
+- `docs/REFERENCE_VIDEO_SCREENING.md` — NotebookLM投入前に参考動画を選び抜くための基準。
+- `docs/REFERENCE_VIDEO_CANDIDATES_001.md` — 001用に選定した参考動画候補と採否理由。
 - `docs/PHASED_REFERENCE_MAP.md` — Phase 0〜3でどの先例を参考にするかの整理。
 - `docs/MEBUKI_CLIPS_V0_BOARD.md` — 各clipの傷、hook、視点反転、画面案。
 - `docs/SCRIPT_QUALITY_BAR.md` — AIっぽい励ましを落とす品質基準。

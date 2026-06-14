@@ -23,6 +23,11 @@
 | REF-LOVABLE-WELCOME-20260614 | 001 | Lovable Docs | B | 自然言語からworking applicationへ進む。ゲーム・クイズ・シミュレーションも入口にする | ドキュメント文、画面、事例、機能説明の順番 | 2026-06-14 | https://docs.lovable.dev/introduction/welcome |
 | REF-GITHUB-SPARK-20260614 | 001 | GitHub Spark | B | dream -> see -> ship、自然言語、プレビュー、履歴、共有の流れ | GitHubの表現、画面、サンプルアプリ、コピー | 2026-06-14 | https://githubnext.com/projects/github-spark/ |
 | REF-MAKECODE-ARCADE-20260614 | 001 | Microsoft MakeCode Arcade | B | 初手からゲーム。小さく動く画面で作れた感を作る | ゲーム名、画面、キャラ、チュートリアル構成、ブロック配置 | 2026-06-14 | https://arcade.makecode.com/ |
+| REF-REPLIT-AGENT-VIDEO-20260614 | 001 | Replit Agent 60 sec official video | B | idea -> software、pair programmer、環境設定や共有まで進める相棒感 | 動画、字幕、話者、UI、画面、台詞のコピー | 2026-06-14 | https://youtu.be/aWBiZc5XKJM |
+| REF-BOLT-DARREL-20260614 | 001/later | Bolt.new non-official tutorial | B | 単純なプロンプトからすぐ成果が出る構造のみ。売り込み色が強いため001への採用は限定 | 台詞、話し方、例、画面、アフィリエイト導線、長尺構成 | 2026-06-14 | https://youtu.be/5zfOitaKfmM |
+| REF-BOLT-DISCUSS-20260614 | 004/006 | Bolt Discuss non-official tutorial | B | plan before build、web search、debug loop。001では使わない | 台詞、UI、API key/Supabase手順、debug手順の丸写し | 2026-06-14 | https://youtu.be/d8JTs12rxT0 |
+| REF-LOVABLE-DARREL-20260614 | 005/006 | Lovable non-official reconstructed tutorial | B | 生成後に編集、壊れたらAIに直させる、Web app/DBへ広げる導線。001では薄い | 台詞、画面、詳細プロンプト、Supabase手順、売り込み文句 | 2026-06-14 | https://youtu.be/mOak_imYmqU |
+| REF-ADAFRUIT-MINI-GALAGA-20260614 | 001 | Mini Galaga MakeCode showcase | B | ユーザー投稿作品を紹介する、既存ゲームから着想を得る、動いた後にedit codeで中を見て改造する | Galaga画面、固有グラフィック、台詞、動画、投稿者作品そのもの | 2026-06-14 | https://youtu.be/o8jrZz3L9_I |
 | REF-CS50-X-20260614 | later | CS50x official course | B | Phase 3以降の本物のCS感覚、設計、正しさ、学び直し | 講義映像、先生の語り口、スライド、問題セット、固有演出 | 2026-06-14 | https://cs50.harvard.edu/x/ |
 | REF-CS50-W0-20260614 | later | CS50x Week 0 | B | Phase 3以降の参加感、Scratchから始める導入 | Scratch教材、講義構成、字幕、デモ内容 | 2026-06-14 | https://cs50.harvard.edu/x/weeks/0/ |
 | REF-CS50-W1-20260614 | later | CS50x Week 1 | B | Phase 3以降の低レイヤーやCLIへの導入 | Cの説明、コード例、コマンド例、エラー内容 | 2026-06-14 | https://cs50.harvard.edu/x/weeks/1/ |
