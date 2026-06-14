@@ -71,20 +71,20 @@ NotebookLMに入れるなら、次はこの4本から始める。
 
 1. https://youtu.be/MZjW7mlRgdw
    - AI時代のPRD。今回の主張に最も近い。
-   - processed: `local/transcripts/prd-guide-ai-apps-jordan-urbs.md`
-   - Japanese translation: `local/transcripts/registered-lines-ja.md`
+   - processed: `docs/reference-transcripts/prd-guide-ai-apps-jordan-urbs.md`
+   - Japanese translation: `docs/reference-transcripts/registered-lines-ja.md`
 2. https://youtu.be/lLAkuOfBT_w
    - 開発者へアプリ案をどう伝えるか。
-   - processed: `local/transcripts/approach-software-developer-app-idea.md`
-   - Japanese translation: `local/transcripts/registered-lines-ja.md`
+   - processed: `docs/reference-transcripts/approach-software-developer-app-idea.md`
+   - Japanese translation: `docs/reference-transcripts/registered-lines-ja.md`
 3. https://youtu.be/7hoGqhb6qAs
    - user storyの短い型。
-   - processed: `local/transcripts/user-stories-agile-the-agile-shop.md`
-   - Japanese translation: `local/transcripts/registered-lines-ja.md`
+   - processed: `docs/reference-transcripts/user-stories-agile-the-agile-shop.md`
+   - Japanese translation: `docs/reference-transcripts/registered-lines-ja.md`
 4. https://youtu.be/zZV6FeJ3BtE
    - acceptance criteria、つまり「何ができたら完成か」。
-   - processed: `local/transcripts/acceptance-criteria-productplan.md`
-   - Japanese translation: `local/transcripts/registered-lines-ja.md`
+   - processed: `docs/reference-transcripts/acceptance-criteria-productplan.md`
+   - Japanese translation: `docs/reference-transcripts/registered-lines-ja.md`
 
 ## 001への使い方
 

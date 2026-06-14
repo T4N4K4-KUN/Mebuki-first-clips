@@ -15,7 +15,7 @@ checked_date: 2026-06-14
 重要:
 - `Mini Galaga` と `Replit Agent` は既に文字起こし・日本語訳登録済み。
 - NotebookLMへ新規投入が必要なのは `Scratch Jumping Game` と `Scratch Catch Game` の2本だけ。
-- 今後は候補を出す前に `local/transcripts/README.md` と `local/transcripts/registered-lines-ja.md` の登録済みソースを照合する。
+- 今後は候補を出す前に `docs/reference-transcripts/README.md` と `docs/reference-transcripts/registered-lines-ja.md` の登録済みソースを照合する。
 
 | Priority | Title | URL | Channel | Official | Length | Processing status | Why use |
 |---:|---|---|---|---|---:|---|---|
@@ -31,7 +31,7 @@ checked_date: 2026-06-14
 Source status:
 
 - Official Scratch Team tutorial.
-- User-provided reconstructed script added at `local/transcripts/scratch-jumping-reconstructed.md`.
+- User-provided reconstructed script added at `docs/reference-transcripts/scratch-jumping-reconstructed.md`.
 - Exact subtitle file exists at `local/candidate_subtitles/scratch-jumping.en.vtt`.
 
 | Time | Evidence | Why it matters |
@@ -55,7 +55,7 @@ Source status:
 Source status:
 
 - Official Scratch Team tutorial.
-- User-provided reconstructed script added at `local/transcripts/scratch-catch-reconstructed.md`.
+- User-provided reconstructed script added at `docs/reference-transcripts/scratch-catch-reconstructed.md`.
 - Exact subtitle file exists at `local/candidate_subtitles/scratch-catch.en.vtt`.
 
 | Time | Evidence | Why it matters |
