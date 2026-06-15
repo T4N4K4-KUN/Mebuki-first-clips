@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#111417"/>
+  <text x="540" y="270" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="56" text-anchor="middle">Let Codex build</text>
+  <text x="540" y="340" fill="#7ee787" font-family="Arial, sans-serif" font-size="56" text-anchor="middle">the smallest version</text>
+  <rect x="130" y="540" width="300" height="230" rx="20" fill="#1d242b" stroke="#51616f"/><text x="190" y="665" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="34">file cards</text>
+  <rect x="470" y="540" width="480" height="300" rx="20" fill="#0b0f12" stroke="#51616f"/>
+  <g stroke="#7ee787" stroke-width="8"><path d="M520 620h260"/><path d="M520 690h330"/><path d="M520 760h210"/></g>
+  <rect x="180" y="940" width="720" height="390" rx="24" fill="#182027" stroke="#58a6ff"/><text x="540" y="1160" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="44" text-anchor="middle">preview opens</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#111417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="64" text-anchor="middle">Today, keep</text>
+  <text x="540" y="325" fill="#7ee787" font-family="Arial, sans-serif" font-size="64" text-anchor="middle">the tools small</text>
+  <g opacity=".25" fill="#2a3139">
+    <rect x="130" y="540" width="120" height="120" rx="24"/><rect x="830" y="560" width="120" height="120" rx="24"/>
+    <rect x="170" y="1240" width="120" height="120" rx="24"/><rect x="785" y="1220" width="120" height="120" rx="24"/>
+  </g>
+  <rect x="235" y="720" width="270" height="270" rx="44" fill="#1c252c" stroke="#58a6ff" stroke-width="6"/>
+  <text x="370" y="870" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="42" text-anchor="middle">Codex</text>
+  <rect x="575" y="720" width="270" height="270" rx="44" fill="#1c252c" stroke="#7ee787" stroke-width="6"/>
+  <text x="710" y="870" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="42" text-anchor="middle">Mebuki</text>
+</svg>

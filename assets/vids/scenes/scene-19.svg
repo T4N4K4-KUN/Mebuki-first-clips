@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">Returning is part</text>
+  <text x="540" y="320" fill="#7ee787" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">of learning</text>
+  <rect x="150" y="520" width="780" height="760" rx="28" fill="#1d242b" stroke="#51616f"/>
+  <rect x="220" y="650" width="640" height="120" rx="18" fill="#222932"/>
+  <rect x="220" y="820" width="640" height="150" rx="18" fill="#1e2b24" stroke="#7ee787" stroke-width="5"/>
+  <text x="260" y="910" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="40">Next step highlighted</text>
+  <path d="M790 1160c75-60 75-140 0-200" fill="none" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/>
+</svg>

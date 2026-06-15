@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="56" text-anchor="middle">Change one thing</text>
+  <text x="540" y="320" fill="#7ee787" font-family="Arial, sans-serif" font-size="56" text-anchor="middle">to make it yours</text>
+  <rect x="160" y="560" width="330" height="520" rx="24" fill="#191f24" stroke="#51616f"/>
+  <text x="325" y="650" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="34" text-anchor="middle">before</text>
+  <circle cx="325" cy="835" r="58" fill="#8b949e"/>
+  <rect x="590" y="560" width="330" height="520" rx="24" fill="#191f24" stroke="#7ee787"/>
+  <text x="755" y="650" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="34" text-anchor="middle">after</text>
+  <circle cx="755" cy="835" r="58" fill="#7ee787"/>
+  <circle cx="810" cy="925" r="24" fill="#58a6ff"/>
+</svg>

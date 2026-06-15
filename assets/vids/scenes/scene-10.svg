@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="270" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">Decisions stay</text>
+  <text x="540" y="340" fill="#7ee787" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">visible</text>
+  <g font-family="Arial, sans-serif" font-size="44" fill="#121417">
+    <rect x="190" y="560" width="200" height="110" rx="55" fill="#7ee787"/><text x="290" y="630" text-anchor="middle">Yes</text>
+    <rect x="440" y="560" width="200" height="110" rx="55" fill="#7ee787"/><text x="540" y="630" text-anchor="middle">Yes</text>
+    <rect x="690" y="560" width="200" height="110" rx="55" fill="#7ee787"/><text x="790" y="630" text-anchor="middle">Yes</text>
+  </g>
+  <rect x="180" y="820" width="720" height="360" rx="22" fill="#1d242b" stroke="#58a6ff"/>
+  <text x="240" y="930" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="40">decision note</text>
+  <text x="240" y="1010" fill="#b8c4cc" font-family="Arial, sans-serif" font-size="34">fixed screen / browser / shapes</text>
+</svg>

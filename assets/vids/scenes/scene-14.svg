@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="270" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="62" text-anchor="middle">Done check 2</text>
+  <text x="540" y="345" fill="#7ee787" font-family="Arial, sans-serif" font-size="62" text-anchor="middle">the score changes</text>
+  <rect x="180" y="520" width="720" height="720" rx="28" fill="#191f24" stroke="#39515c"/>
+  <circle cx="560" cy="860" r="42" fill="#7ee787"/><circle cx="490" cy="860" r="30" fill="#4fbf6f"/><circle cx="425" cy="860" r="24" fill="#3b8f55"/>
+  <circle cx="680" cy="760" r="24" fill="#58a6ff"/>
+  <text x="240" y="595" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="36">score 2</text>
+</svg>
