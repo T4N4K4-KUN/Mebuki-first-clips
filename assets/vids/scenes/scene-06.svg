@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="54" text-anchor="middle">Goal: run one tiny</text>
+  <text x="540" y="315" fill="#7ee787" font-family="Arial, sans-serif" font-size="54" text-anchor="middle">game locally</text>
+  <g font-family="Arial, sans-serif" font-size="38" fill="#f5f7f2">
+    <rect x="150" y="520" width="780" height="190" rx="18" fill="#1e2b24" stroke="#7ee787" stroke-width="6"/><text x="210" y="635">goal</text>
+    <rect x="150" y="760" width="780" height="190" rx="18" fill="#1d242b" stroke="#51616f"/><text x="210" y="875">order sheet</text>
+    <rect x="150" y="1000" width="780" height="190" rx="18" fill="#1d242b" stroke="#51616f"/><text x="210" y="1115">done check</text>
+    <rect x="150" y="1240" width="780" height="190" rx="18" fill="#1d242b" stroke="#51616f"/><text x="210" y="1355">log</text>
+  </g>
+</svg>

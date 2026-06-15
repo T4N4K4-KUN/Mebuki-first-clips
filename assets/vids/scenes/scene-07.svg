@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">Plain words are</text>
+  <text x="540" y="320" fill="#7ee787" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">enough to start</text>
+  <rect x="130" y="560" width="820" height="620" rx="24" fill="#f5f7f2"/>
+  <text x="190" y="690" fill="#121417" font-family="Arial, sans-serif" font-size="42">I want a tiny game</text>
+  <text x="190" y="770" fill="#121417" font-family="Arial, sans-serif" font-size="42">where a character</text>
+  <text x="190" y="850" fill="#121417" font-family="Arial, sans-serif" font-size="42">collects items</text>
+  <text x="190" y="930" fill="#121417" font-family="Arial, sans-serif" font-size="42">and grows.</text>
+  <rect x="190" y="1010" width="430" height="8" fill="#58a6ff"/>
+</svg>

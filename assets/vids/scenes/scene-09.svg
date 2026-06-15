@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#14171a"/>
+  <text x="540" y="270" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">Ask only what</text>
+  <text x="540" y="340" fill="#7ee787" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">is needed</text>
+  <circle cx="220" cy="650" r="70" fill="#58a6ff"/><text x="220" y="667" fill="#121417" font-family="Arial, sans-serif" font-size="42" text-anchor="middle">AI</text>
+  <g font-family="Arial, sans-serif" font-size="38" fill="#f5f7f2">
+    <rect x="330" y="560" width="560" height="110" rx="55" fill="#1d242b" stroke="#51616f"/><text x="390" y="630">Fixed screen?</text>
+    <rect x="330" y="735" width="560" height="110" rx="55" fill="#1d242b" stroke="#51616f"/><text x="390" y="805">Browser is OK?</text>
+    <rect x="330" y="910" width="560" height="110" rx="55" fill="#1d242b" stroke="#51616f"/><text x="390" y="980">Simple shapes?</text>
+  </g>
+</svg>

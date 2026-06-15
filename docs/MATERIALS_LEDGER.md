@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | SELF-TEXT-001 | all | original script | text | captions / narration | self-made | yes | yes | no | TBD | created in this repo | yes |
 | SELF-VISUAL-001 | all | original text animation / mock UI | visual | video visuals | self-made | yes | yes | no | TBD | created by project | yes |
+| SELF-VISUAL-VIDS-001 | 001/lecture | `assets/vids/scenes/*.svg`, `assets/vids/png/*.png` | visual | Vids scene icons / illustrations / UI mock parts | self-made | yes | yes | no | 2026-06-15 | original SVG assets and PNG exports created in this repo | yes |
 
 ## Reference study log
 

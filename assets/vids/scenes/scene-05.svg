@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#111417"/>
+  <text x="540" y="250" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">Then shrink it to</text>
+  <text x="540" y="320" fill="#7ee787" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">a one-hour version</text>
+  <rect x="170" y="560" width="740" height="170" rx="22" fill="#1e2630" stroke="#58a6ff" stroke-width="4"/>
+  <text x="540" y="665" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="38" text-anchor="middle">growing character game</text>
+  <path d="M540 770v130" stroke="#7ee787" stroke-width="12" stroke-linecap="round"/>
+  <path d="M510 870l30 35 30-35" fill="none" stroke="#7ee787" stroke-width="12" stroke-linecap="round"/>
+  <rect x="300" y="980" width="480" height="480" rx="24" fill="#182027" stroke="#39515c"/>
+  <circle cx="455" cy="1220" r="38" fill="#7ee787"/><circle cx="620" cy="1105" r="20" fill="#58a6ff"/><circle cx="540" cy="1320" r="20" fill="#58a6ff"/>
+</svg>

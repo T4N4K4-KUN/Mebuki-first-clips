@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#111417"/>
+  <text x="540" y="270" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">Cut the first</text>
+  <text x="540" y="340" fill="#7ee787" font-family="Arial, sans-serif" font-size="60" text-anchor="middle">version down</text>
+  <g font-family="Arial, sans-serif" font-size="40" fill="#f5f7f2">
+    <rect x="180" y="550" width="720" height="105" rx="52" fill="#1e2b24" stroke="#7ee787"/><text x="240" y="618">arrow keys</text>
+    <rect x="180" y="700" width="720" height="105" rx="52" fill="#1e2b24" stroke="#7ee787"/><text x="240" y="768">collect item</text>
+    <rect x="180" y="850" width="720" height="105" rx="52" fill="#1e2b24" stroke="#7ee787"/><text x="240" y="918">score goes up</text>
+    <rect x="180" y="1000" width="720" height="105" rx="52" fill="#1e2b24" stroke="#7ee787"/><text x="240" y="1068">game over</text>
+    <text x="240" y="1250" fill="#6f7b86">later: ranking, sound, saving</text>
+  </g>
+</svg>

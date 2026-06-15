@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#14171a"/>
+  <text x="540" y="240" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">Do not start by</text>
+  <text x="540" y="310" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="58" text-anchor="middle">learning everything</text>
+  <g font-family="Arial, sans-serif" font-size="42" fill="#f5f7f2">
+    <rect x="250" y="560" width="580" height="150" rx="18" fill="#222932" stroke="#51616f"/>
+    <text x="540" y="654" text-anchor="middle">language</text>
+    <rect x="220" y="750" width="640" height="150" rx="18" fill="#222932" stroke="#51616f"/>
+    <text x="540" y="844" text-anchor="middle">libraries</text>
+    <rect x="265" y="940" width="550" height="150" rx="18" fill="#222932" stroke="#51616f"/>
+    <text x="540" y="1034" text-anchor="middle">setup</text>
+    <rect x="200" y="1130" width="680" height="150" rx="18" fill="#222932" stroke="#51616f"/>
+    <text x="540" y="1224" text-anchor="middle">tool choice</text>
+  </g>
+  <path d="M860 1030c80 0 120-55 120-120" stroke="#7ee787" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
